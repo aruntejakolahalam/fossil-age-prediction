@@ -37,3 +37,9 @@ approaches impact model performance, interpretability, and prediction accuracy.
 - Data preprocessing and feature engineering
 - Model evaluation and comparison
 - Python-based analytical workflows
+
+## Additional Documents
+- Insights_Summary.md – Business takeaways from the analysis
+- Assumptions_and_Limitations.md – Scope and constraints of the project
+- Future_Improvements.md – Ideas for extending the analysis
+
