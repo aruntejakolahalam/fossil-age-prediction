@@ -39,7 +39,8 @@ approaches impact model performance, interpretability, and prediction accuracy.
 - Python-based analytical workflows
 
 ## Additional Documents
-- Insights_Summary.md – Business takeaways from the analysis
-- Assumptions_and_Limitations.md – Scope and constraints of the project
-- Future_Improvements.md – Ideas for extending the analysis
+- Insights_Summary.md – Key analytical insights and business takeaways  
+- Assumptions_and_Limitations.md – Scope, assumptions, and analytical constraints  
+- Future_Improvements.md – Potential enhancements and next steps for the project  
+
 
